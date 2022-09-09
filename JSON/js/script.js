@@ -32,4 +32,4 @@ const otherPersonJSON = '{ "name": "Ola Nordmann", "id": 9, "isAdmin": true }';
 
 const otherPerson = JSON.parse(otherPersonJSON);
 
-console.log(otherPerson)
+console.log(otherPerson);
