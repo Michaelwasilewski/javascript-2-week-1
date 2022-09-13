@@ -27,3 +27,11 @@ localStorage.setItem("name", "Michael");
 localStorage.setItem("age", 28);
 localStorage.setItem("city", "Oslo");
 // localStorage.clear();
+
+// CREATE A PROJECT 
+// ADD TAILWINDCSS
+// CREATE A BUTTON WHICH TOGGLE ETWEEN LIGHT AND DARK THEME
+
+// IF YOU CLICK ON THE BTN IT WILL MAKE THE BG OF THE BODY DARK AND IF YOU CLICK AGAIN 
+// IT WILL MAKE IT LIGHT GREY
+
